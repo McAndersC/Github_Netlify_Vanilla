@@ -1,3 +1,3 @@
-import config from "./config";
+import config from "./config.js";
 
 console.log('Hello Netlify!', config.version);
